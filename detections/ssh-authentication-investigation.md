@@ -78,6 +78,8 @@ Successfully traced a controlled SSH authentication failure from the Ubuntu syst
 
 ## Evidence
 
+![Wazuh SSH authentication failure alert](../Screenshot%202026-10-12%20at%2012.23.06.png)
+
 The screenshot below shows Wazuh detecting a failed SSH authentication attempt (Rule ID 5760, Level 5).
 
 *This exercise was conducted on a personal lab system under my control.*
