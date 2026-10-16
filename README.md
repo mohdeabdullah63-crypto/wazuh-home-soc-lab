@@ -43,6 +43,7 @@ https://github.com/mohdeabdullah63-crypto/wazuh-home-soc-lab/blob/00157cf773c090
 **Result:** Successfully tested the file lifecycle - added, modified, deleted and reviewed the resulting events in Wazuh.
 
 ### 2. SSH Authentication Monitoring
+https://github.com/mohdeabdullah63-crypto/wazuh-home-soc-lab/blob/00157cf773c0903105e080ac4682d4fc87f125fa/detections/ssh-authentication-investigation.md
 
 **Objective:** Generate and investigate a failed SSH authentication event.
 
