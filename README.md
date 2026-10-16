@@ -27,12 +27,13 @@ The lab demonstrates how endpoint and system activity flows through a security m
 5. Investigate the event and assess its context and potential security impact
 
 ### 1. File Integrity Monitoring (FIM)
-
+https://detections/file-integrity-monitoring.md?utm_source=chatgpt.com
+https://screenshots/wazuh-fim-alert.png?utm_source=chatgpt.com
 **Objective:** Detect changes to files in a monitored endpoint directory.
 
 **What I did:**
 
-- Configured Wazuh to monitor a dedicated lab directory on macOS.
+- Configured Wazuh to monitor a dedicated lab directory on my MacBook running macOS.
 - Created a test file and verified the resulting alert.
 - Modified the file and observed the corresponding change event.
 - Deleted the file and confirmed the deletion event.
