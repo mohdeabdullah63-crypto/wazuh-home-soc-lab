@@ -32,8 +32,8 @@ The lab demonstrates how endpoint and system activity flows through a security m
 
 **What I did:**
 
-- Configured Wazuh to monitor a dedicated lab directory endpoint directory on macOS.
-- Created a test file an verified the resulting alert.
+- Configured Wazuh to monitor a dedicated lab directory on macOS.
+- Created a test file and verified the resulting alert.
 - Modified the file and observed the corresponding change event.
 - Deleted the file and confirmed the deletion event.
 
