@@ -94,4 +94,4 @@ This alert was observed during routine lab troubleshooting. A dedicated privileg
 
 ### Disclaimer
 
-This is personal learning lab. All test are conducted on systems under my control. The project is intended for educational purposes and does not represent production SOC experience.
+This is a personal learning lab and all test are conducted on systems under my control. The project is intended for educational purposes and does not represent production SOC experience.
