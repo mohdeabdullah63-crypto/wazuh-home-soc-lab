@@ -27,7 +27,7 @@ The lab demonstrates how endpoint and system activity flows through a security m
 5. Investigate the event and assess its context and potential security impact
 
 ### 1. File Integrity Monitoring (FIM)
-https://detections/file-integrity-monitoring.md?utm_source=chatgpt.com
+https://github.com/mohdeabdullah63-crypto/wazuh-home-soc-lab/blob/00157cf773c0903105e080ac4682d4fc87f125fa/detections/file-integrity-monitoring.md
 
 https://screenshots/wazuh-fim-alert.png?utm_source=chatgpt.com
 
