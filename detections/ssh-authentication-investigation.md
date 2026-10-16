@@ -78,7 +78,7 @@ Successfully traced a controlled SSH authentication failure from the Ubuntu syst
 
 ## Evidence
 
-Add a screenshot of the Wazuh alert showing rule `5760`, with usernames, IP addresses, and other details redacted where appropriate.
+The screenshot below shows Wazuh detecting a failed SSH authentication attempt (Rule ID 5760, Level 5).
 
 *This exercise was conducted on a personal lab system under my control.*
 
