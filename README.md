@@ -8,9 +8,9 @@ I built a monitoring pipeline connecting a macOS endpoint to an Ubuntu Server ru
 ## Lab Architecture
 
 - **SIEM and monitoring platform:** Wazuh 4.14.8
-- **Server:** Ubuntu Server 24.04 LTC
+- **Server:** Ubuntu Server 24.04 LTS
 - **Endpoint:** macOS running Wazuh Agent 4.14.8
-- **Virtualisation:** VMWare Fusion
+- **Virtualisation:** VMware Fusion
 - **Detection areas:** File Integrity Monitoring (FIM), SSH authentication failures and sudo activity
 - **Threat framework:** MITRE ATT&CK
 
@@ -18,7 +18,7 @@ The Ubuntu server hosts the Wazuh Manager, Indexer, and Dashboard. A Wazuh agent
 
 ## Security Monitoring Pipeline
 
-The lb demonstrates how endpoint and system activity flows through a security monitoring pipeline:
+The lab demonstrates how endpoint and system activity flows through a security monitoring pipeline:
 
 1. Generate a controlled activity or security event
 2. Collect the relevant event or log
