@@ -28,7 +28,9 @@ The lab demonstrates how endpoint and system activity flows through a security m
 
 ### 1. File Integrity Monitoring (FIM)
 https://detections/file-integrity-monitoring.md?utm_source=chatgpt.com
+
 https://screenshots/wazuh-fim-alert.png?utm_source=chatgpt.com
+
 **Objective:** Detect changes to files in a monitored endpoint directory.
 
 **What I did:**
