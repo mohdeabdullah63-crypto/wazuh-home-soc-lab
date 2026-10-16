@@ -39,7 +39,7 @@ The lab demonstrates how endpoint and system activity flows through a security m
 
 **Result:** Successfully tested the file lifecycle - added, modified, deleted and reviewed the resulting events in Wazuh.
 
-### SSH Authentication Monitoring
+### 2. SSH Authentication Monitoring
 
 **Objective:** Generate and investigate a failed SSH authentication event.
 
