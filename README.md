@@ -29,7 +29,7 @@ The lab demonstrates how endpoint and system activity flows through a security m
 ### 1. File Integrity Monitoring (FIM)
 https://github.com/mohdeabdullah63-crypto/wazuh-home-soc-lab/blob/00157cf773c0903105e080ac4682d4fc87f125fa/detections/file-integrity-monitoring.md
 
-https://screenshots/wazuh-fim-alert.png?utm_source=chatgpt.com
+screenshots/wazuh-fim-alert.png
 
 **Objective:** Detect changes to files in a monitored endpoint directory.
 
